@@ -6,13 +6,21 @@ This repository introduces a novel dataset for the classification of Chronic Obs
 The investigated machine learning classifiers for this dataset include: Artificial Neural Networks (ANN), Support Vector Machines (SVM), Gaussian Naive Bayes (GNB), Logistic Regression (LR), Gradient Boosting decision tree algorithm (XGBoost).    
 
 Attribute Information: 
+
 1- Diagnosis (COPD-HC-Asthma-Infected) 
+
 2- ID 
+
 3- Age
+
 4- Gender (1=male, 0=female) 
+
 5- Smoking Status (1=Non-smoker, 2=Ex-smoker, 3=Active-smoker) 
+
 6- Saliva Permittivity:
+
     a) Imaginary part (Min(Δ)=Absolute minumum value, Avg.(Δ)=Average)  
+    
     b) Real part (Min(Δ)=Absolute minumum value, Avg.(Δ)=Average) 
     
 To use the introduced dataset please cite the following papers: 
