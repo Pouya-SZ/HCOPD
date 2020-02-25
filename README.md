@@ -1,11 +1,11 @@
 # HCOPD
 Classification of Saliva Samples of Healthy Control (HC) and COPD -- HCOPD 
 
-This repository introduces a novel dataset for the classification of Chronic Obstructive Pulmonary Disease (COPD) patients and Healthy Controls. The main dataset includes demographic information on 4 groups of saliva samples (COPD-HC-Asthma-Infected) collected in the frame of the Exasens research project at the Research Center Borstel, BioMaterialBank Nord (Borstel, Germany). The sampling procedure of the patient materials was approved by the local ethics committee of the University of Luebeck under the approval number AZ-16-167 and a written informed consent was obtained from all subjects. A permittivity biosensor, developed at IHP Microelectronics (Frankfurt Oder, Germany), was used for the dielectric characterization of the saliva samples for classification purposes (https://doi.org/10.3390/healthcare7010011). 
+This repository introduces a novel dataset for the classification of Chronic Obstructive Pulmonary Disease (COPD) patients and Healthy Controls. The Exasens dataset includes demographic information on 4 groups of saliva samples (COPD-HC-Asthma-Infected) collected in the frame of a joint research project, Exasens, at the Research Center Borstel, BioMaterialBank Nord (Borstel, Germany). The sampling procedure of the patient materials was approved by the local ethics committee of the University of Luebeck under the approval number AZ-16-167 and a written informed consent was obtained from all subjects. A permittivity biosensor, developed at IHP Microelectronics (Frankfurt Oder, Germany), was used for the dielectric characterization of the saliva samples for classification purposes (https://doi.org/10.3390/healthcare7010011). 
 
 The investigated machine learning classifiers for this dataset include: Artificial Neural Networks (ANN), Support Vector Machines (SVM), Gaussian Naive Bayes (GNB), Logistic Regression (LR), Gradient Boosting decision tree algorithm (XGBoost).    
 
-Definition of 4 sample groups: 
+Definition of 4 sample groups included within the Exasens dataset: 
 
 (I) Outpatients and hospitalized patients with COPD without acute respiratory infection (COPD). 
 
