@@ -11,7 +11,7 @@ Definition of 4 sample groups included within the Exasens dataset:
 
 (II) Outpatients and hospitalized patients with asthma without acute respiratory infection (Asthma). 
 
-(III) Healthy volunteers without COPD or asthma, but with respiratory infection (Infected). 
+(III) Patients with respiratory infections, but without COPD or asthma (Infected). 
 
 (IV) Healthy volunteers without COPD or asthma and without respiratory infection (HC).
 
