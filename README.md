@@ -29,9 +29,9 @@ Attribute Information:
 
 6- Saliva Permittivity:
 
-    a) Imaginary part (Min(Δ)=Absolute minumum value, Avg.(Δ)=Average)  
+    a) Imaginary part (Min(Δ)=Absolute minimum value, Avg.(Δ)=Average)  
     
-    b) Real part (Min(Δ)=Absolute minumum value, Avg.(Δ)=Average) 
+    b) Real part (Min(Δ)=Absolute minimum value, Avg.(Δ)=Average) 
     
 In case of using the introduced Exasens dataset or the proposed classification methods, please cite the following papers: 
 - P. S. Zarrin, N. Roeckendorf, and C. Wenger. In-vitro Classification of Saliva Samples of COPD Patients and Healthy Controls Using Non-perceptron Machine Learning Tools. Annals of biomedical engineering, 2020. 
