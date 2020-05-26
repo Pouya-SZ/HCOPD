@@ -34,7 +34,6 @@ Attribute Information:
     b) Real part (Min(Δ)=Absolute minimum value, Avg.(Δ)=Average) 
     
 In case of using the introduced Exasens dataset or the proposed classification methods, please cite the following papers: 
-- P. S. Zarrin, N. Roeckendorf, and C. Wenger. In-vitro Classification of Saliva Samples of COPD Patients and Healthy Controls Using Non-perceptron Machine Learning Tools. Annals of biomedical engineering, 2020. 
 
 - Soltani Zarrin, P.; Ibne Jamal, F.; Roeckendorf, N.; Wenger, C. Development of a Portable Dielectric Biosensor for Rapid Detection of Viscosity Variations and Its In Vitro Evaluations Using Saliva Samples of COPD Patients and Healthy Control. Healthcare 2019, 7, 11.
 
